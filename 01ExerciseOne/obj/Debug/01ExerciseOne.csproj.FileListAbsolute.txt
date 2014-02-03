@@ -1,0 +1,11 @@
+C:\programming\HomeWorkOOP\01ExerciseOne\bin\Debug\01ExerciseOne.exe.config
+C:\programming\HomeWorkOOP\01ExerciseOne\bin\Debug\01ExerciseOne.exe
+C:\programming\HomeWorkOOP\01ExerciseOne\bin\Debug\01ExerciseOne.pdb
+C:\programming\HomeWorkOOP\01ExerciseOne\obj\Debug\01ExerciseOne.exe
+C:\programming\HomeWorkOOP\01ExerciseOne\obj\Debug\01ExerciseOne.pdb
+C:\Users\EMA\Desktop\HomeWorkOOP\01ExerciseOne\bin\Debug\01ExerciseOne.exe.config
+C:\Users\EMA\Desktop\HomeWorkOOP\01ExerciseOne\obj\Debug\01ExerciseOne.exe
+C:\Users\EMA\Desktop\HomeWorkOOP\01ExerciseOne\obj\Debug\01ExerciseOne.pdb
+C:\Users\EMA\Desktop\HomeWorkOOP\01ExerciseOne\bin\Debug\01ExerciseOne.exe
+C:\Users\EMA\Desktop\HomeWorkOOP\01ExerciseOne\bin\Debug\01ExerciseOne.pdb
+C:\Users\EMA\Desktop\HomeWorkOOP\01ExerciseOne\obj\Debug\01ExerciseOne.csprojResolveAssemblyReference.cache
